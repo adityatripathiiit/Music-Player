@@ -12,13 +12,12 @@ Live @ https://music-trips.herokuapp.com/   || https://baase.netlify.com/
  <tr>
   <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/mobile2.jpg" width="200px;height:500px"/></td>
   <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/mobile6.jpg" width="200px;height:500px"/></td>
-  <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/mobile4.jpg" width="200px;height:500px"/></td>
-     
+  
  </tr>
  <tr>
-    <td align="center"><img src="https://github.com/adityatripathiiit/Stories/blob/master/screenshots/Profile_picture_on_longpress.jpg" width="200px;height:300px"/></td>
-  <td align="center"><img src="https://github.com/adityatripathiiit/Stories/blob/master/screenshots/3-d_animation.jpg" width="200px;height:300px"/></td>
- <td align="center"><img src="https://github.com/adityatripathiiit/Stories/blob/master/screenshots/Color_change_after_viewing.jpg" width="200px;height:300px"/></td>
+    <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/mobile8.jpg" width="200px;height:300px"/></td>
+  <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/mobile4.jpg" width="200px;height:300px"/></td>
+ <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/mobile10.jpg" width="200px;height:300px"/></td>
     
   </tr>
   
