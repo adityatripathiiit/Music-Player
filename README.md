@@ -35,8 +35,6 @@ Live @ https://music-trips.herokuapp.com/   || https://baase.netlify.com/
  <tr>
   <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/music_added.png" width="500px;height:250px"/></td>
  </tr>
- <td
-
 </table>
 
 ## Features 
