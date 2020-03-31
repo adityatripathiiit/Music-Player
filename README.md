@@ -30,21 +30,16 @@ Live @ https://music-trips.herokuapp.com/   || https://baase.netlify.com/
  <tr>
   <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/file_upload.png" width="500px;height:250px"/></td>
   <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/manage.png" width="500px;height:250px"/></td>
- </tr>
- 
- <tr>
-  <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/music_added.png" width="500px;height:250px"/></td>
+ <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/music_added.png" width="500px;height:250px"/></td>
  </tr>
 </table>
 
 ## Features 
 
-* On single-press on the profile screen, the news stories will be displayed. 
-* On a longer-press on the profile screen, the option to change the image will be displayed
-* Profile picture can be selected from the device’s gallery or clicked through the camera
-* The color of the border changes, when a story in viewed
-* Swipe gestures are also placed, when you swipe down/left/right in the story mode, then corresponding actions will be executed. 
-* Stories can be added 
-* Progress bar that plays the story and automatically closes the screen after X seconds
-* Text added by the user as an opinion regarding the news
-* 3D card animation when stories changes
+* Build on React, using MongoDb. 
+* Music can be played via this application, on Mobiles/Desktop.
+* Music can be added, deleted, changed via the manage tab provided at the right corner.
+* Anyone can access the delete/add access. Music added by one person can be listened by anyone(Please don't misuse this feature).
+* File size that can be uploaded is kept fixed(around 6-7MB). Howwever it can be changed easily.
+* Gives alert whenever invalid files/entries are filled.
+* Gives alert upon addition of music, and asks the user to confirm the deletion.
