@@ -43,3 +43,4 @@ Live @ https://music-trips.herokuapp.com/   || https://baase.netlify.com/
 * File size that can be uploaded is kept fixed(around 6-7MB). Howwever it can be changed easily.
 * Gives alert whenever invalid files/entries are filled.
 * Gives alert upon addition of music, and asks the user to confirm the deletion.
+* Loading Amination while fetching data from the database. 
