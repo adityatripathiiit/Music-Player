@@ -22,11 +22,20 @@ Live @ https://music-trips.herokuapp.com/   || https://baase.netlify.com/
   </tr>
   
  <tr>
-  <td align="center"><img src="https://github.com/adityatripathiiit/Stories/blob/master/screenshots/Story_2.jpg" width="200px;height:300px"/></td>
-  <td align="center"><img src="https://github.com/adityatripathiiit/Stories/blob/master/screenshots/Amination_on_viewing_story.jpg" width="200px;height:300px"/></td>
+  <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/music_delete.png" width="500px;height:250px"/></td>
+  <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/music_deleted.png" width="500px;height:250px"/></td>
      
  </tr>
  
+ <tr>
+  <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/file_upload.png" width="500px;height:250px"/></td>
+  <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/manage.png" width="500px;height:250px"/></td>
+ </tr>
+ 
+ <tr>
+  <td align="center"><img src="https://github.com/adityatripathiiit/Music-Player/blob/master/screenshots/music_added.png" width="500px;height:250px"/></td>
+ </tr>
+ <td
 
 </table>
 
